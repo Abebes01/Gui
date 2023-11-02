@@ -1,6 +1,5 @@
-# project-nvp15-alexarnell-bena-sabebe
 
-Group members:
+
 - Alex Arnell (Game logic)
 - Ben Armstrong (Bot)
 - Nikhil Patel (TUI)

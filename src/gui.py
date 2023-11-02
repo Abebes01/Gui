@@ -1,9 +1,3 @@
-# This file contains a Graphical User Interface for checkers
-#
-# Sawiros
-#
-# CMSC 14200
-
 import os
 import sys
 import copy
